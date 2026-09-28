@@ -11,6 +11,6 @@ const lessonTotals = {
     "Lesson 9": 10,
     "Lesson 10": 20,
     "Lesson 12": 30,
-    "P2 Quiz": 50,
+    "P2 Quiz": 30,
     "P2 Exam": 50
 };
